@@ -1,2 +1,2 @@
 UNITY LESSONS learned:
-3d Objekte erstellen und mit Prefabs copieren und weiter einfügen.
+3d Objekte erstellen und mit Prefabs copieren und weitller einfügen.
