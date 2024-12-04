@@ -1,13 +1,10 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewStudent", menuName = "Sitzplan/Studentplan")]
-public class StudentData : MonoBehaviour
+[CreateAssetMenu(fileName = "NewStudent", menuName = "Seatplan/Studentplan")]
+public class StudentData : ScriptableObject
 {
-    public sting studentName;
-    public color eyeColor;
-    public sprite studentImage;
-    public audioClip studentclip;
+    public string studentName;
+    public Color eyeColor;
+    public Sprite studentImage;
+    public AudioClip studentclip;
 } 
