@@ -5,7 +5,7 @@ using UnityEngine;
 public class Manager : MonoBehaviour
 {
     [SerializeField] private GameObject prefab;
-    [SerializeField] private GameObject myParent;
+    [SerializeField] private GameObject ;
 
     // Start is called before the first frame update
     void Start()
