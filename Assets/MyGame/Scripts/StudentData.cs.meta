@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 16591882b49efb54fb77bcc63236a129
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - studentImage: {fileID: 21300000, guid: e8adb2c513a18fb4e975a2a4447e5a3e, type: 3}
+  - studentClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
